@@ -1,0 +1,11 @@
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.deps.json
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.runtimeconfig.json
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.dll
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.pdb
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.dll
+c:\users\maheshig\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.pdb
